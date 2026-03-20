@@ -21,13 +21,10 @@ def math():
     ej_6 = a % b
     ej_7 = a / b
 
-    print ("Ejercico 1"
-           " soluciones:")
-
-    print (ej_1,
-           ej_2,
-           ej_3,
-           ej_4,
-           ej_5,
-           ej_6,
-           ej_7)
+    print (ej_1)
+    print (ej_2)
+    print (ej_3)
+    print (ej_4)
+    print (ej_5)
+    print (ej_6)
+    print (ej_7)
