@@ -13,3 +13,23 @@ def math():
     """
     a = 57
     b = 7
+    ej_1 = a + b
+    ej_2 = a - b
+    ej_3 = a * b
+    ej_4 = (a+b)/2
+    ej_5 = a // b
+    ej_6 = a % b
+    ej_7 = a / b
+
+    print ("Ejercico 1"
+           " soluciones:")
+
+    print (ej_1,
+           ej_2,
+           ej_3,
+           ej_4,
+           ej_5,
+           ej_6,
+           ej_7)
+
+math()
