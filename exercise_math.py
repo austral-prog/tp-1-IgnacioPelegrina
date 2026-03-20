@@ -31,5 +31,3 @@ def math():
            ej_5,
            ej_6,
            ej_7)
-
-math()
